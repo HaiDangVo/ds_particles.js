@@ -1,0 +1,22 @@
+{
+  "name": "ds_particles.js",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaiDangVo/ds_particles.js.git"
+  },
+  "keywords": [
+    "particles"
+  ],
+  "author": "Hai Dang Vo <vohaidang0804@gmail.com> (http://dar-studio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HaiDangVo/ds_particles.js/issues"
+  },
+  "homepage": "https://github.com/HaiDangVo/ds_particles.js#readme"
+}
